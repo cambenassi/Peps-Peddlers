@@ -22,6 +22,12 @@ body,
     padding-bottom: 10px;
 }
 
+#photos {
+    margin-left: 2.5px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
 #sidebarJT {
     margin: 0px;
     padding: 0px;
@@ -61,4 +67,30 @@ ul {
 
 .list-group-item:hover {
     background-color: rgba(251, 255, 0, 0.815) !important;
+}
+
+.carouselItem {
+    height: 70%;
+    width: 70%;
+    margin: auto;
+    display: block;
+}
+
+.note {
+    padding-left: 350px;
+}
+
+.links {
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    display: block;
+
+    padding-bottom: 30px;
+
+}
+
+.logos {
+    margin-left: auto;
+    margin-right: auto;
 }
